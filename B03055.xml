@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The address of the House of Commons to the King</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03055</idno><idno type="EEBO-CITATION">53299081</idno>
+  <idno type="VID">179849</idno>
+  <idno type="EEBO-PROQUEST">2248534545</idno>
+  
+            <idno type="STC">Wing E2517</idno>
+            <idno type="STC">ESTC R172041</idno>
+            <idno type="OCLC">53299081</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179849)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The address of the House of Commons to the King</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Sovereign (1689-1694 : William and Mary) --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_address">
+            <pb n="1" facs="tcp:179849:1"/>
+            <head>THE ADDRES OF The House of <hi>Commons</hi> to the KING.</head>
+            <opener>
+               <salute>May it Please Your MAJESTY,</salute>
+            </opener>
+            <p>WE Your Majesty's most Dutiful and Loyal Subjects, the Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> in Parliament Assembled, Reflecting upon the great Calamities from which we were Delivered, and the many Benefiits we Daily receive, by the Protection and Influence of Your Ma<g ref="char:EOLhyphen"/>jestie's Government, Do (with all Thankfulness to Almighty God) Con<g ref="char:EOLhyphen"/>gratulate the Glorious Success of Your Majesty's Arms Abroad, the Pre<g ref="char:EOLhyphen"/>servation of Your Sacred Person from the many Hazards, to which You have Expos'd Your Self, and the Blessing of Your being Return'd to us again in Safety.</p>
+            <p>We beg Leave at the same time Humbly to Represent to Your Ma<g ref="char:EOLhyphen"/>jesty our Grateful Sense of Your Majesty's Favour, in having given such Demonstration to the World and to us, that You Repose an intire Trust and Confidence in the Affections of Your People, for which we know no way of making any Return so suitable, as by giving Your Majesty this Assurance, That we (and those Your most Faithful Commons whom we Re<g ref="char:EOLhyphen"/>present) are Resolved to Defend and Support Your Majesty and Your Go<g ref="char:EOLhyphen"/>vernment against all Your Enemies both at Home and Abroad; And that we will Effectually Assist Your Majesty in the Prosecution of this Present War in which You are Engaged for the Safety of <hi>England,</hi> and the Li<g ref="char:EOLhyphen"/>berties of <hi>Europe.</hi>
+            </p>
+            <closer>
+               <signed>P. FOLEY, Speaker.</signed>
+            </closer>
+         </div>
+         <div type="list_of_Parliamentary_proceedings">
+            <head>VOTES OF THE <hi>House of Commons.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>Jovis 28 die Novembris, 1695.</date>
+               </dateline>
+            </opener>
+            <list>
+               <item>
+                  <hi>Ordered,</hi>
+                  <lb/> THat Leave be given to bring in a Bill to Enable Sir <hi>Thomas Pope Blount,</hi> Baronet, to make Provision for his Younger Children, upon the Marriage of his Eldest Son.</item>
+               <pb n="2" facs="tcp:179849:2"/>
+               <item>Sir <hi>William Turmbal</hi> acquainted the House, That he having waited on His Majesty, to know His Pleasure when He would be Attended by this House, His Majesty had been Pleased to Appoint this Afternoon at Four a Clock at <hi>Kensington.</hi>
+               </item>
+               <item>The Order of the Day for taking into Consideration His Majesties Gracious Speech to both Houses being read.</item>
+               <item>His Majesties Speech was Read.</item>
+               <item>
+                  <hi>A</hi> Motion being made for a Supply to be given to His Majesty;</item>
+               <item>
+                  <hi>Resolved,</hi>
+                  <lb/> That this House will upon <hi>Saturnday</hi> Morning next, at Ten a Clock, Resolve it self into a Committee of the whole House, to Consider of that Motion.</item>
+               <item>
+                  <hi>Ordered,</hi>
+                  <lb/> That the Consideration of His Majesty's Speech, be Referr'd to the said Committee▪</item>
+               <item>A Petition of Sir <hi>James Bradshaw</hi> Knight, was presented to the House, and Read, Complaining of an undue Election for the Town and County of <hi>King<g ref="char:EOLhyphen"/>ston upon Hull.</hi>
+               </item>
+               <item>
+                  <hi>Ordered;</hi>
+                  <lb/> That the Consideration of the said Petition be Referr'd to the Committee of Priviledges and Elections, and that they do Examine the Matter thereof, and Report the▪ same with their Opinion therein to the House.</item>
+            </list>
+            <p>And then the House Adjourned till Three a Clock in the Afternoon.</p>
+            <p>
+               <hi>Post merediem.</hi> The House Met, in Order to Attend His Majesty, And then Adjourned till to Morrow Morning Nine a Clock.</p>
+            <closer>
+               <signed>P. FOLEY.</signed>
+            </closer>
+         </div>
+         <div type="list_of_Parliamentary_proceedings">
+            <head>VOTES OF THE House of Commons.</head>
+            <opener>
+               <dateline>
+                  <date>Veneris 29 die Novembris, 1695.</date>
+               </dateline>
+            </opener>
+            <list>
+               <item>THE Petition of several of the Inhabitants of the Borough of <hi>East-Grin<g ref="char:EOLhyphen"/>sted</hi> in the County of <hi>Sussex,</hi> (which lay on the Table) was Read; And also,</item>
+               <item>A Petition of Sir <hi>Richard Gipps,</hi> Knight, and <hi>James Bateman,</hi> Esq; Complai<g ref="char:EOLhyphen"/>ning of an Undue Election for the Borough of <hi>Totness,</hi> in the County of <hi>Devon:</hi>
+               </item>
+               <item>And a Petition of <hi>Ambrose Manaton,</hi> Esq; Complaining of an Undue Return for the Borough of <hi>Tavistock,</hi> in the County of <hi>Devon:</hi>
+               </item>
+               <item>And a Petion of <hi>John Smith,</hi> Esq; Complaining of an Undue Return for the Borough of <hi>Southampton:</hi>
+               </item>
+               <item>And a Petition of divers of the Inhabitants of the Borough of <hi>Buckingham,</hi> in the County of <hi>Bucks,</hi> on the Behalf of themselves and the rest of the Inhabi<g ref="char:EOLhyphen"/>tants within the said Borough, Complaining of an Undue Election and Return for the said Borough: And</item>
+            </list>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb n="3" facs="tcp:179849:3"/>
+            <head>ACT against Exportation of Money forth of the Kingdom.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Estates of Parliament considering, how much the Kingdom is impoverished by the dayly Exportation of Money forth of the same; and that the making use of our own native Commodities, for furnishing us with these things which formerly were brought to us from forraign places, is, by the commendable Industry of se<g ref="char:EOLhyphen"/>veral deserving Country-men and ingenious Artists, much improved: and that in order to their encouragement, and that our own native Commodities may go the better off, necessar it is, that some more severe Restraint than formerly, be laid upon the Exportation of Money. Therefore, the King's Majesty, with Advice and Consent of his Estates of Parliament, Statutes and Ordains, That no person or persons whatsoever, shall Trade or use Merchandize with any other Nati<g ref="char:EOLhyphen"/>on, till first they take an Oath before the Lord Thesaurer or Thesaurer-De<g ref="char:EOLhyphen"/>put, or before such persons as they shall appoint for that effect. That they shall not export by themselves or others, directly or indirectly, by Sea or Land, any Gold or Silver, coyned or uncoyned, except such a Sum as they shall declare upon Oath before the said Lord Thesaurer, Thesaurer-Deput, or these appoint<g ref="char:EOLhyphen"/>ed by them, as said is, to be necessar for making of their Voyage to the Port where they are going, and that if he know any money Transported by any o<g ref="char:EOLhyphen"/>ther person, he shall delate the same to the Lord Thesaurer, Principal or De<g ref="char:EOLhyphen"/>put, or to the foresaid persons appointed by them. As likewise, every Skipper shall, before he make any Voyage after the Publication hereof, to any other Kingdom or Nation, take an Oath before the said Lord Thesaurer or Thesaurer-Deput, or these appointed by them for that effect, that he shall not himself Transport, nor suffer any Gold or Silver, coyned or un-coyned (except as is above excepted, and except the Sum of Threescore pounds at most, which eve<g ref="char:EOLhyphen"/>ry Passenger is hereby allowed to carry forth of the Country for his necessary spending) to be Transported in the Ship wherein he is Master, and that he shall use his outmost endeavour for Discovery of the same, if any be: And that if after he hath made Sail, it shall come to his knowledge, that there is any Mo<g ref="char:EOLhyphen"/>ney concealed in his Ship, or in any other Ship, he shall at his Return, Delate the same to the Lord Thesaurer, Principal or Deput, or to these appointed by them for that effect: And which persons appointed by them, are hereby requi<g ref="char:EOLhyphen"/>red, to give timeous notice thereof to the said Lord Thesaurer or Thesaurer-Deput, under the Penalty of the half of the Money informed to have been Trans<g ref="char:EOLhyphen"/>ported. And sicklike▪ the saids Oaths shall be renewed and taken before the saids Lord Thesaurer or Deput, or these appointed by them, as said is, by all Skippers and Merchants, at the making of every particular Voyage: And both the saids Oaths shall be subscribed by the respective Parties, and insert in the Books of Exchequer, or in the Books of these persons appointed by the Lord Thesaurer or Deput for that effect; For which Extracts, they shall pay to the Keepers of these Registers twelve shillings <hi>Scots</hi> allanerly, the one thereof to be carried to the Customer, and insert in their Books <hi>gratis;</hi> the other to be carried to the Keeper of the Cocquet, and insert in his Books <hi>gratis.</hi> And it is furder Statut and Ordained, That in case any Merchant or Skipper, shall, after the Publication hereof, Trade with, or make any Voyage to any other Kingdom or Nation, before the taking of the saids Oaths; and Production of the Extracts thereof to the Customer and Keeper of the Cocquet, that then they shall forfeit the fifth part of their Moveables and be incapable, the Merchant of all Trading, and the Skipper of having any Charge of any Ship within this Kingdom in all time co<g ref="char:EOLhyphen"/>ming. Provided always, that the taking of the Oaths above mentioned, shall be without prejudice of search for, or Seizure of any exported money. And if any Gold or Silver, coyned or un-coyned, shall, after Publication hereof, be Discovered carrying out of the Kingdom, by any person who hath taken the said Oath, the same not only to be Confiscat, but the person or persons Owners thereof, to be proceeded against as perjured persons, and further lyable to six
+<pb n="4" facs="tcp:179849:4"/> Months imprisonment. As also, it is hereby Declared, that notwithstanding of the said Oaths, if it shall at any time thereafter be legally proven, Money hath been carried out of the Kingdom by the persons takers of the said Oath, the saids persons shall be proceeded against as perjured persons, and by and at<g ref="char:EOLhyphen"/>tour, be fined in the value of the money Exported; and whatsoever money shall be discovered or seized upon, the one half thereof to be for His Majesties use, and the other half to the Informer. And the Lord Thesaurer and Thesaurer-Deput are hereby required, to appoint sufficient honest men, to be found at the respective Ports of this Kingdom, or Royal Burghs next adjacent thereto, for taking of the saids Oaths; And that they take Bond, with sufficient Caution from each of the persons so appointed, under the Pain of Six thousand Pounds <hi>Scots,</hi> that they shall not suffer any Merchant or Skipper to use Trade or Mer<g ref="char:EOLhyphen"/>chandize with any forraign Kingdom or Nation, before they have taken the saids Oaths; and shall do their utmost endeavours for Discovery and Seizure of all money carryed out of the Kingdom: And that if it shall be informed to them, that any money hath been carryed out of the Kingdom, they shall give speedy and timeous notice of their information to the said Lord Thesaurer or Thesaurer-Deput, the one half of the foresaid Sum of Six thousand pounds, in case of failʒie, to be for His Majesties use, and the other half to be given to the Delator, and to be further lyable to six Months imprisonment for Breach of their Trust. And sicklike, the Lord Thesaurer Principal, and Thesaurer-De<g ref="char:EOLhyphen"/>put, are hereby required, to cause the Farmerers and Collectors of the Custom, and Keepers of the Cocquet, to take an Oath, that the saids Farmerers and Col<g ref="char:EOLhyphen"/>lectors of the Custom shall use their utmost endeavours, for the Discovery and Seizure of all money carrying out of the Kingdom by Sea or Land, either by Merchant, Skipper, or by any person of whatsoever Quality or Degree, except as is above excepted; And that they shall not give Warrand to any Skipper to receive a Cocquet, unless they have received, both from the Skipper and Mer<g ref="char:EOLhyphen"/>chants in the Ship, Extracts of the respective Oaths, as said is; and that the Keepers of the Cocquets shall give no Cocquet, unless they have likewise re<g ref="char:EOLhyphen"/>ceived Extracts of the Oaths above mentioned, both from Skipper and Mer<g ref="char:EOLhyphen"/>chants; and both Customers and Keepers of the Coquet to give Bond, with suf<g ref="char:EOLhyphen"/>ficient Caution, under such Sums of money as the said Lord Thesaurer princi<g ref="char:EOLhyphen"/>pal and Thesaurer Deput shall think fit, for fulfilling of the Premisses. And in case the saids Farmerers, Collectors and Keepers of the Cocquet, or either of them, shall refuse to compear, or compearing, refuse or delay to take the Oath, and give their Bond as aforesaid, then their Tack, Commission, Gift, or any other Title, by which they enjoy their Places and Charges, to be void and null, and they to be further lyable to such Censures, as the said Lord Thesaurer principal, and Thesaurer-Deput shall think fit for their contumacy. And if it shall be made appear to the said Lord Thesaurer principal, and Thesaurer-Deput, that any of the Farmerers or Collectors of Custom, or Keepers of Cocquet, shall trans<g ref="char:EOLhyphen"/>gress the Oath and Bond above-mentioned in any part, then their Tack, Com<g ref="char:EOLhyphen"/>mission, Gift or, any other Title by which they enjoy their saids Places, to be void and null, and they to have incurred the Sums and Penalties contained in their respective Bonds (the one half thereof to be given to the Informer or De<g ref="char:EOLhyphen"/>lator) and to be further proceeded against, as perjured persons; Discharging hereby, all granting of Licences for exporting of money; except to such per<g ref="char:EOLhyphen"/>sons allanerly, as shall make faith in Exchequet, or these appointed by the Lord Thesaurer, or Thesaurer-Deput, and give sufficient Bond, that the money which they are to carry out, is to be bestowed upon Timber in <hi>Norway</hi> or in order for bringing in of Victual in time of extream Dearth, and that they shall return <hi>in specie,</hi> what part of the money shall not be so bestowed.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Prin<g ref="char:EOLhyphen"/>ter to the Kings most Excellent Majesty. 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
